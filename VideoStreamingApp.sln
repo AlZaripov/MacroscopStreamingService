@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStreamingApp", "VideoStreamingApp\VideoStreamingApp.csproj", "{D655B3A0-B0C2-45BD-9FCC-1461EE575980}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VideoStreamingApp.BL", "VideoStreamingApp.BL\VideoStreamingApp.BL.csproj", "{6CA3B539-A12C-465B-A29A-F05FCD103D0C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D655B3A0-B0C2-45BD-9FCC-1461EE575980}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D655B3A0-B0C2-45BD-9FCC-1461EE575980}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D655B3A0-B0C2-45BD-9FCC-1461EE575980}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D655B3A0-B0C2-45BD-9FCC-1461EE575980}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CA3B539-A12C-465B-A29A-F05FCD103D0C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CA3B539-A12C-465B-A29A-F05FCD103D0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CA3B539-A12C-465B-A29A-F05FCD103D0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CA3B539-A12C-465B-A29A-F05FCD103D0C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B501B3AA-CB7B-4815-A904-EE5CEA297A51}
+	EndGlobalSection
+EndGlobal
